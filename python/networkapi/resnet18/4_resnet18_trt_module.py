@@ -1,8 +1,8 @@
 '''
-Author: chenhao
+Author: 
 Date: 2020-09-04 16:03:33
 LastEditTime: 2020-09-24 10:15:56
-LastEditors: chenhao
+LastEditors: 
 Description: In User Settings Edit
 FilePath: /onnx_graphsurgeon/4_resnet18_trt_module.py
 '''
