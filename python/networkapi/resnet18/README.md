@@ -6,3 +6,11 @@
 ## 环境  
 
 trt 7.0-7.1应该都行  （如果trt的api未变的情况下应该都行）
+
+## develop docker env
+
+ you can use nvidia official docker image : [nvidia NGC](https://ngc.nvidia.com/catalog/containers/nvidia:tensorrt/tags), eg:
+
+ ```shell
+    docker pull nvcr.io/nvidia/tensorrt:20.03-py3
+ ```
